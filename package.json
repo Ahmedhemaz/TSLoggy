@@ -1,0 +1,29 @@
+{
+  "name": "tsloggy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmedhemaz/TSLoggy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmedhemaz/TSLoggy/issues"
+  },
+  "homepage": "https://github.com/Ahmedhemaz/TSLoggy#readme",
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "@types/jest": "^27.4.0",
+    "ts-jest": "^27.1.3",
+    "ts-node": "^10.4.0"
+  }
+}
